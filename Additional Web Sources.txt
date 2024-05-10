@@ -1,0 +1,10 @@
+Additional Resources:
+
+Code Visualizer:
+https://pythontutor.com/render.html#mode=edit
+
+Reuven's Resources:
+https://files.lerner.co.il/
+
+Reuven's git for the Spring:
+https://github.com/reuven/OReilly-2024-spring-python
